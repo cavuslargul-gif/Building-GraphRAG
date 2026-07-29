@@ -16,12 +16,6 @@ The repository is organized into modular Cypher scripts. Each file is responsibl
 
 This modular structure keeps the project maintainable, extensible and easy to understand.
 
-
-<img width="129" height="335" alt="image" src="https://github.com/user-attachments/assets/c441c05b-a302-4921-ba44-fc11267fd9d9" />
-
-
- Simplified architecture of the Building Knowledge Graph showing the core domain entities and relationships.
-
 ---
 
 ## Data Model
