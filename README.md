@@ -16,6 +16,30 @@ The repository is organized into modular Cypher scripts. Each file is responsibl
 
 This modular structure keeps the project maintainable, extensible and easy to understand.
 
+
+Building
+   │
+HAS_STOREY
+   ▼
+Storey
+   │
+HAS_SPACE
+   ▼
+Space
+   ├──────┬──────┐
+   ▼      ▼      ▼
+ Wall   Door   Window
+   │
+HAS_ISSUE
+   ▼
+ Issue
+   ▲
+RESPONSIBLE_FOR
+   │
+ Role
+
+ Simplified architecture of the Building Knowledge Graph showing the core domain entities and relationships.
+
 ---
 
 ## Data Model
