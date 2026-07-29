@@ -2,7 +2,7 @@
 
 <img width="1113" height="498" alt="v_n_d" src="https://github.com/user-attachments/assets/42ce8edf-1d57-44f6-9200-08fba0afbae8" />
 
-Figure 1. Example visualization of the Building Knowledge Graph.
+Figure 1. Neo4j visualization of the Building Knowledge Graph.
 
 ## Project Description
 
