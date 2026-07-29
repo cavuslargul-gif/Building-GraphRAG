@@ -16,9 +16,9 @@ This repository serves as a portfolio project demonstrating graph modeling, Cyph
 
 ## Architecture
 
-The repository is organized into modular Cypher scripts. Each file is responsible for one part of the knowledge graph and can be executed independently after the database has been reset.
+The Building Knowledge Graph follows a hierarchical BIM structure. Buildings contain storeys, storeys contain spaces, and spaces contain building elements. Documents, materials, standards, issues and responsibilities are connected through dedicated relationships to enable graph-based querying and GraphRAG retrieval.
 
-This modular structure keeps the project maintainable, extensible and easy to understand.
+The implementation is organized into modular Cypher scripts. Each file is responsible for one part of the knowledge graph and can be executed independently after the database has been reset.
 
 ---
 
