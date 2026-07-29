@@ -1,5 +1,8 @@
 # Building GraphRAG
 
+<img width="1113" height="498" alt="v_n_d" src="https://github.com/user-attachments/assets/42ce8edf-1d57-44f6-9200-08fba0afbae8" />
+
+
 ## Project Description
 
 Building GraphRAG demonstrates how Building Information Modeling (BIM) data can be represented as a Neo4j knowledge graph.
